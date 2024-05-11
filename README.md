@@ -4,8 +4,8 @@ A basic traffic simulator built in Rust with egui as the frontend. Working throu
 
 ## Progress
 
-### 0.2.0 : Assignment 1, w/ Improvements
+### 0.0.2 : Assignment 1, w/ Improvements
 ![](0.0.2.gif)
 
-### 0.1.0 : Assignment 1
+### 0.0.1 : Assignment 1
 ![](0.0.1.gif)
