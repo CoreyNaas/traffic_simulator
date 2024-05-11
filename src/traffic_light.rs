@@ -1,4 +1,3 @@
-
 /*
 Traffic Light "Object"
 - Enumeration: TrafficLightState

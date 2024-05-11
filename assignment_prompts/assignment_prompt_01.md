@@ -28,8 +28,8 @@ The goal of this assignment is to enhance the existing traffic light simulator t
 1. **Code:**
    Submit the Rust source files containing your implementation of the `Intersection` and updated `TrafficLight` structs, along with the modified state machine logic.
 
-2. **UI Screenshot:**
-   A screenshot of the UI showing the four-way intersection in one of its operational states.
+2. **UI Demonstration:**
+   A gif or video of the UI showing the four-way intersection cycling through all its operational states.
 
 3. **Documentation:**
    A README file documenting your design decisions, how you have synchronized the traffic lights, and instructions on how to run the simulator.
