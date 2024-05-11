@@ -16,9 +16,9 @@ fn main() {
         ..Default::default()
     };
     
-    // create the eframe with the native_options, and create a new Box with the UiApplication
+    // create the eframe with the native_options, and creates UiApplication on the heap
     let _ = eframe::run_native(
         "Corey's Traffic Signal Simulator", 
         native_options, 
-        Box::new(|_cc| Box::new(crate::ui::UiApplication::new())));
+        std::boxed::Box::new(|_cc| std::boxed::Box::new(crate::ui::UiApplication::new())));
 }

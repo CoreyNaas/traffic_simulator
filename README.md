@@ -1,6 +1,6 @@
 # Traffic Simulator
 
-A basic traffic simulator built in Rust with egui as the frontend. Working through "assignment prompts" I created with GPT4, which can be found in [/assignment_prompts/](/assignment_prompts/).
+A basic traffic simulator built in Rust with egui as the frontend. For motivation and guidance, I'm Working through "assignment prompts" I created with GPT4, which can be found in [assignments](assignments.md).
 
 ## Progress
 
